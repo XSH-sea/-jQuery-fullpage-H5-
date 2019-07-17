@@ -1,4 +1,9 @@
 /*公用样式*/
+.body{
+    height:720px;
+    width:1280px;
+}
+
 .go {
     width: 100px;
     height: 100px;
