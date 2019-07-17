@@ -280,7 +280,7 @@
 .screen04 .cloud {
     position: absolute;
     left: -300px;
-    top: -50px;
+    top: -40px;
     animation: cloud 12s linear infinite alternate;
 }
 
