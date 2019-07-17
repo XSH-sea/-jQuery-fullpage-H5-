@@ -21,7 +21,7 @@
 .content {
     width: 900px;
     height: 600px;
-    background-color: rgba(0, 0, 0, .1);
+   /*background-color: rgba(0, 0, 0, .1); */
     position: absolute;
     bottom: 0;
     left: 50%;
